@@ -1,6 +1,6 @@
 spring:
   profiles:
-    active: local
+    activate: test
   application:
     name: querydsl
 
